@@ -1,4 +1,4 @@
-# Kaggle-challenges
+# Kaggle-competitions
 This repository holds the scripts used for submission of analysis and predictions for Kaggle Challenges.
 
 ## Completed Competitions Available
